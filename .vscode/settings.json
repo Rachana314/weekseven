@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "MauiApp1.sln"
+    "dotnet.defaultSolution": "MauiApp1.sln",
+    "liveServer.settings.port": 5501
 }
